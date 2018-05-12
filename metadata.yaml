@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/t#a5407
     - http://www.gutenberg.org/browse/authors/d#a662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44029#Mind-and-Bodyor-Mental-States-and-Physical-Conditions
 gutenberg_issued: '2013-10-25'
 gutenberg_type: Text
 identifiers:
